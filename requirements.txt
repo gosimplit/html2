@@ -1,4 +1,0 @@
-flask
-Markdown
-latex2mathml
-gunicorn
